@@ -5,22 +5,22 @@ The Smart Product Analysis Dashboard is a comprehensive quality control solution
 Features:
 
 Manufacturing & Expiry Extraction (Task 1):
-**Github link ---> https://github.com/Priya-161/OCR
+**Github link ---> https://github.com/Amisha-Srivastava14/Expiry-and-Manufacturing-Date-Validation-
 
 Extracts manufacturing and expiry date of products packaging using paddleocr.Helps manage inventory more efficiently by flagging soon-to-expire products, enabling proactive restocking and promotions.
 
 Brand Recognition & Object Counting (Task 2):
-Github link --> https://github.com/Priya-161/Count_and_Brand
+Github link --> https://github.com/Amisha-Srivastava14/Real-Time-Inventory-Product-Counting-and-Brand-Recognition
 
 Employs yolov8 to annotate brand name from product image and train model to identify brand label for new images to identify product brands and validate packaging Leverage computer vision for object counting functionality using opencv for accurate inventory management, ensuring the correct number of products are processed.
 
 Fruit Freshness Detection (Task 3):
-Github link --> https://github.com/Priya-161/shelf_life
+Github link --> https://github.com/Amisha-Srivastava14/Fruit-Shelf-Life-Detection-
 
 We trained dataset of 5601 fruit images on MobilenetV2 model .The images were annotated based on shelf life that we observed over the time span taken for a fresh fruit till it get rotten for various fruits like apple,orange,melon,banana and so on.It predicts the classification of fruit and its estimated shelf life.
 
 Product Detail Extraction (Task 4):
-**Github link --> https://github.com/Priya-161/Image_Extraction
+**Github link --> https://github.com/Amisha-Srivastava14/Product-Detail-Extraction
 
 Demonstrates the fine-tuning of the Qwen2-VL model on a custom dataset for OCR extraction tasks. The objective is to extract important product information such as: Brand Name, Manufacturing Details ,Category ,Weight,Volume .The model is optimized to work with product images, where it automatically identifies and extracts this textual information.
 
